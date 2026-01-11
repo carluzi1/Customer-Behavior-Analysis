@@ -1,0 +1,1 @@
+Customer shopping behavior analysis using Python (Pandas), SQL (PostgreSQL), Excel, Power BI, and Gamma AI to uncover spending patterns, customer segments, product preferences, and subscription insights from 3,900 transactions.
